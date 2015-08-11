@@ -1,5 +1,6 @@
 # Assignment-1---Warboats-1
 Local Change Log ------------------------------------------------------------------------------------------------------
+
 8/10/2015 - First pushable verion of the project. Issues regaurding the project needing to work when moved to a
 different directory needed to be worked out.
 - Project no longer uses directories for files that extend from the C drive. For example "C:\...\...\"
@@ -8,6 +9,7 @@ different directory needed to be worked out.
  must be accesed from a this directory C:\Users\Tardis\Folder2. This was initially implemeted by using this
  directory to access the executable C:\Users\Tardis\Folder1\a.exe. The improved version ..\Folder2\a.exe.
 
+ 
 Makefiles all work seperately from each other so they cna be used independantly from each other to create an executable 
 for only on driver.
 
